@@ -6,7 +6,7 @@
 
 🏫 I also have studied machine learning and am looking to get involved in projects in ML which can relate to the engineering applications I enjoy
 
-🔗 You can learn more about me on my [GitHub Pages site](stevespreiz@github.io)
+🔗 You can learn more about me on my [GitHub Pages site](stevespreiz.github.io)
 
 
 <!---
